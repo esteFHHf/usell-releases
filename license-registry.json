@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T01:48:28.834Z",
+  "updatedAt": "2026-11-13T01:48:37.385Z",
   "description": "Registro oficial de licencias y revocaciones para Usell POS",
   "revocations": [
     {
@@ -14,5 +14,15 @@
       "revokedAt": "2026-11-13T01:48:28.833Z"
     }
   ],
-  "activations": {}
+  "activations": {
+    "MELL7-DM3DE-JTUH7": {
+      "machineId": "EQ-8A03",
+      "activatedAt": "2026-11-13T01:48:37.384Z",
+      "status": "active",
+      "hostname": "MSI",
+      "platform": "win32",
+      "arch": "x64",
+      "type": "MachineBound"
+    }
+  }
 }
