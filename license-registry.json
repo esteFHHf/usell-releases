@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T01:47:26.230Z",
+  "updatedAt": "2026-11-13T01:47:43.991Z",
   "description": "Registro oficial de licencias y revocaciones para Usell POS",
   "revocations": [
     {
       "key": "MUUUT-ER99Y-EXPVT",
       "reason": "Prueba de revocacion remota",
-      "revokedAt": "2026-11-13T01:47:26.229Z"
+      "revokedAt": "2026-11-13T01:47:43.990Z"
     }
   ],
   "activations": {}
